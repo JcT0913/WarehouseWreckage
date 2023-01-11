@@ -1991,3 +1991,26 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.11-05.39.19:774][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1.53 sec)
 [2023.01.11-05.39.19:782][183]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.01.11-05.39.19:783][183]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.01.11-06.09.24:074][835]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.053 and deleted 0 files with total size 0 MiB. Scanned 8402 files in 7975 folders with total size 106 MiB.
+[2023.01.11-06.10.13:194][982]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Voice Changer Virtual Audio Device (WDM)), InstanceID=1
+[2023.01.11-06.10.13:468][982]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21664
+[2023.01.11-06.10.13:802][983]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1aa01bff-c6a7-4dc2-b219-8920a78cd2f1}, Name=Speakers (Voice Changer Virtual Audio Device (WDM))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.20
+[2023.01.11-06.10.13:802][983]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-06.10.13:803][983]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-06.31.01:084][722]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW2521HF (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.11-06.31.01:482][722]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21664
+[2023.01.11-06.31.01:808][723]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bb332c8d-48c4-48cd-9650-3a8c9a53ff93}, Name=AW2521HF (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=182.15
+[2023.01.11-06.31.01:808][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-06.31.01:809][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-06.31.14:861][762]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.01.11-06.31.14:861][762]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.01.11-06.31.21:907][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.11-06.31.21:993][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.01.11-06.31.22:002][474]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.01.11-06.31.22:002][474]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default241C4F194F5A1DC3ACB2ADABC615C391.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.01.11-06.31.22:007][474]LogFileHelpers: No new changes to save!
+[2023.01.11-06.31.22:007][474]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.01.11-06.31.22:011][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.64 sec)
+[2023.01.11-06.31.22:019][474]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.01.11-06.31.22:019][474]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.01.11-06.31.45:088][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
