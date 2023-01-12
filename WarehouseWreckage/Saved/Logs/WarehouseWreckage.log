@@ -1625,3 +1625,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.11-23.59.44:310][ 85]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.11-23.59.44:310][ 85]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair
 [2023.01.11-23.59.44:310][ 85]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound
+[2023.01.12-00.08.06:920][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.01.12-00.08.06:932][215]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/CourseContent_Auto1
+[2023.01.12-00.08.06:932][215]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/CourseContent_Auto11FD6B52C455645AE0EE520B82EC1383C.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/CourseContent_Auto1.umap'
+[2023.01.12-00.08.06:938][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/CourseContent' took 0.059
+[2023.01.12-00.08.06:938][215]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2023.01.12-00.25.56:803][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.12-00.25.56:807][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.12-00.25.56:885][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.01.12-00.25.56:895][175]LogSavePackage: Moving output files for package: /Game/StarterContent/CourseContent
+[2023.01.12-00.25.56:896][175]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/CourseContent1003DCEE4DB73897CAF0819FC07279AA.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/CourseContent.umap'
+[2023.01.12-00.25.56:901][175]LogFileHelpers: Saving map 'CourseContent' took 0.049
+[2023.01.12-00.25.56:907][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 732 ms)
+[2023.01.12-00.25.56:915][175]AssetCheck: New page: Asset Save: CourseContent
+[2023.01.12-00.25.56:915][175]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/CourseContent.CourseContent
