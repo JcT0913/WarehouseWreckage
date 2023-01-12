@@ -1639,3 +1639,316 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.12-00.25.56:907][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 732 ms)
 [2023.01.12-00.25.56:915][175]AssetCheck: New page: Asset Save: CourseContent
 [2023.01.12-00.25.56:915][175]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/CourseContent.CourseContent
+[2023.01.12-00.56.40:095][195]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.058 and deleted 0 files with total size 0 MiB. Scanned 8452 files in 8022 folders with total size 107 MiB.
+[2023.01.12-00.57.07:050][275]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Voice Changer Virtual Audio Device (WDM)), InstanceID=1
+[2023.01.12-00.57.07:113][275]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18884
+[2023.01.12-00.57.07:432][276]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1aa01bff-c6a7-4dc2-b219-8920a78cd2f1}, Name=Speakers (Voice Changer Virtual Audio Device (WDM))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=102.32
+[2023.01.12-00.57.07:432][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.12-00.57.07:433][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.12-01.56.41:050][995]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.013 and deleted 0 files with total size 0 MiB. Scanned 8452 files in 8022 folders with total size 107 MiB.
+[2023.01.12-02.56.40:091][790]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.054 and deleted 0 files with total size 0 MiB. Scanned 8452 files in 8022 folders with total size 107 MiB.
+[2023.01.12-03.56.41:069][591]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.032 and deleted 0 files with total size 0 MiB. Scanned 8452 files in 8022 folders with total size 107 MiB.
+[2023.01.12-04.56.40:101][386]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.064 and deleted 0 files with total size 0 MiB. Scanned 8452 files in 8022 folders with total size 107 MiB.
+[2023.01.12-05.56.41:070][186]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.032 and deleted 0 files with total size 0 MiB. Scanned 8452 files in 8022 folders with total size 107 MiB.
+[2023.01.12-06.56.40:091][981]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.053 and deleted 0 files with total size 0 MiB. Scanned 8452 files in 8022 folders with total size 107 MiB.
+[2023.01.12-07.56.41:067][782]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.028 and deleted 0 files with total size 0 MiB. Scanned 8452 files in 8022 folders with total size 107 MiB.
+[2023.01.12-08.56.40:090][576]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.050 and deleted 0 files with total size 0 MiB. Scanned 8452 files in 8022 folders with total size 107 MiB.
+[2023.01.12-09.05.58:678][250]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW2521HF (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.12-09.05.59:033][250]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18884
+[2023.01.12-09.05.59:350][251]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bb332c8d-48c4-48cd-9650-3a8c9a53ff93}, Name=AW2521HF (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=130.32
+[2023.01.12-09.05.59:350][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.12-09.05.59:352][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.12-09.08.36:835][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.01.12-09.12.28:191][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.01.12-09.12.28:203][150]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/CourseContent_Auto2
+[2023.01.12-09.12.28:203][150]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/CourseContent_Auto23C48EC534B8D7B8B1ECDABB6C3B52F0A.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/CourseContent_Auto2.umap'
+[2023.01.12-09.12.28:208][150]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/CourseContent' took 0.059
+[2023.01.12-09.12.28:208][150]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2023.01.12-09.13.53:029][657]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-09.13.53:033][657]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.12-09.13.53:033][657]LogPlayLevel: [PlayLevel] Compiling CourseContent before play...
+[2023.01.12-09.13.53:087][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.12-09.13.53:090][657]LogPlayLevel: PlayLevel: Blueprint regeneration took 57 ms (1 blueprints)
+[2023.01.12-09.13.53:090][657]PIE: New page: PIE session: CourseContent (Jan 11, 2023, 11:13:53 PM)
+[2023.01.12-09.13.53:090][657]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_CourseContent
+[2023.01.12-09.13.53:093][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002659s)
+[2023.01.12-09.13.53:093][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/CourseContent.CourseContent to /Game/StarterContent/UEDPIE_0_CourseContent.CourseContent (0.002685s)
+[2023.01.12-09.13.53:093][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-09.13.53:094][657]LogAIModule: Creating AISystem for world CourseContent
+[2023.01.12-09.13.53:094][657]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2023.01.12-09.13.53:125][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.01.12-09.13.53:126][657]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.12-09.13.53:126][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-09.13.53:126][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-09.13.53:126][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-09.13.53:126][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-09.13.53:126][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.12-09.13.53:126][657]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-09.13.53:126][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.12-09.13.53:126][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-09.13.53:127][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-09.13.53:127][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-09.13.53:127][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-09.13.53:129][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-09.13.53:150][657]LogAudioMixer: Display: Using Audio Hardware Device AW2521HF (NVIDIA High Definition Audio)
+[2023.01.12-09.13.53:150][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-09.13.53:150][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-09.13.53:150][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-09.13.53:152][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.01.12-09.13.53:152][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.01.12-09.13.53:152][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.01.12-09.13.53:152][657]LogInit: FAudioDevice initialized.
+[2023.01.12-09.13.53:152][657]LogAudio: Display: Audio Device (ID: 5) registered with world 'CourseContent'.
+[2023.01.12-09.13.53:152][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.01.12-09.13.53:200][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-09.13.53:200][657]LogLoad: Game class is 'GameModeBase'
+[2023.01.12-09.13.53:201][657]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_CourseContent.CourseContent up for play (max tick rate 0) at 2023.01.12-04.13.53
+[2023.01.12-09.13.53:201][657]LogWorld: Bringing up level for play took: 0.001123
+[2023.01.12-09.13.53:204][657]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.01.12-09.13.53:205][657]LogBlueprintUserMessages: [CourseContent_C_3] Welcome to this game!
+[2023.01.12-09.13.53:205][657]LogBlueprintUserMessages: [CourseContent_C_3] Get Ready!
+[2023.01.12-09.13.53:205][657]PIE: Server logged in
+[2023.01.12-09.13.53:205][657]PIE: Play in editor total start time 0.173 seconds.
+[2023.01.12-09.13.53:226][657]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.01.12-09.14.17:663][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-09.14.17:663][179]LogWorld: BeginTearingDown for /Game/StarterContent/UEDPIE_0_CourseContent
+[2023.01.12-09.14.17:664][179]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.01.12-09.14.17:667][179]LogWorld: UWorld::CleanupWorld for CourseContent, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-09.14.17:668][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-09.14.17:669][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-09.14.17:675][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-09.14.17:710][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.12-09.14.17:710][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.12-09.14.17:717][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.01.12-09.14.17:730][180]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.01.12-09.17.15:859][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.01.12-09.17.15:862][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.12-09.17.15:947][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.01.12-09.17.15:959][447]LogSavePackage: Moving output files for package: /Game/StarterContent/CourseContent
+[2023.01.12-09.17.15:959][447]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/CourseContent146E2DAE401117DAFFB623825731C199.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/CourseContent.umap'
+[2023.01.12-09.17.15:964][447]LogFileHelpers: Saving map 'CourseContent' took 0.052
+[2023.01.12-09.17.15:995][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Projectile" FILE="E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/BP_Projectile.uasset" SILENT=true
+[2023.01.12-09.17.15:999][447]LogSavePackage: Moving output files for package: /Game/StarterContent/BP_Projectile
+[2023.01.12-09.17.15:999][447]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/BP_ProjectileC3DF20224002BF9EFD87A488658A8702.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/BP_Projectile.uasset'
+[2023.01.12-09.17.16:005][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 875 ms)
+[2023.01.12-09.17.16:013][447]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.12-09.17.16:013][447]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/CourseContent.CourseContent
+[2023.01.12-09.17.16:013][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/BP_Projectile.BP_Projectile
+[2023.01.12-09.21.49:090][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-09.21.49:094][591]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.12-09.21.49:094][591]LogPlayLevel: [PlayLevel] Compiling CourseContent before play...
+[2023.01.12-09.21.49:154][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.01.12-09.21.49:156][591]LogPlayLevel: PlayLevel: Blueprint regeneration took 61 ms (1 blueprints)
+[2023.01.12-09.21.49:156][591]PIE: New page: PIE session: CourseContent (Jan 11, 2023, 11:21:49 PM)
+[2023.01.12-09.21.49:156][591]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_CourseContent
+[2023.01.12-09.21.49:159][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002674s)
+[2023.01.12-09.21.49:159][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/CourseContent.CourseContent to /Game/StarterContent/UEDPIE_0_CourseContent.CourseContent (0.002701s)
+[2023.01.12-09.21.49:159][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-09.21.49:159][591]LogAIModule: Creating AISystem for world CourseContent
+[2023.01.12-09.21.49:160][591]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2023.01.12-09.21.49:192][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.01.12-09.21.49:192][591]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.01.12-09.21.49:192][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-09.21.49:192][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-09.21.49:192][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-09.21.49:192][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-09.21.49:192][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.12-09.21.49:192][591]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-09.21.49:192][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.12-09.21.49:192][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-09.21.49:193][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-09.21.49:193][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-09.21.49:193][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-09.21.49:195][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-09.21.49:215][591]LogAudioMixer: Display: Using Audio Hardware Device AW2521HF (NVIDIA High Definition Audio)
+[2023.01.12-09.21.49:215][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-09.21.49:215][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-09.21.49:215][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-09.21.49:216][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.01.12-09.21.49:216][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.01.12-09.21.49:217][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.01.12-09.21.49:217][591]LogInit: FAudioDevice initialized.
+[2023.01.12-09.21.49:217][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.01.12-09.21.49:217][591]LogAudio: Display: Audio Device (ID: 6) registered with world 'CourseContent'.
+[2023.01.12-09.21.49:261][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-09.21.49:261][591]LogLoad: Game class is 'GameModeBase'
+[2023.01.12-09.21.49:262][591]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_CourseContent.CourseContent up for play (max tick rate 0) at 2023.01.12-04.21.49
+[2023.01.12-09.21.49:262][591]LogWorld: Bringing up level for play took: 0.001066
+[2023.01.12-09.21.49:264][591]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.01.12-09.21.49:266][591]LogBlueprintUserMessages: [CourseContent_C_4] Welcome to this game!
+[2023.01.12-09.21.49:266][591]LogBlueprintUserMessages: [CourseContent_C_4] Get Ready!
+[2023.01.12-09.21.49:266][591]PIE: Server logged in
+[2023.01.12-09.21.49:266][591]PIE: Play in editor total start time 0.173 seconds.
+[2023.01.12-09.21.49:287][591]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.01.12-09.22.20:623][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-09.22.20:623][924]LogWorld: BeginTearingDown for /Game/StarterContent/UEDPIE_0_CourseContent
+[2023.01.12-09.22.20:623][924]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.01.12-09.22.20:626][924]LogWorld: UWorld::CleanupWorld for CourseContent, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-09.22.20:627][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-09.22.20:629][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-09.22.20:634][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-09.22.20:670][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.01.12-09.22.20:672][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.01.12-09.22.20:678][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.12-09.22.20:690][925]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.01.12-09.27.47:984][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.01.12-09.27.48:000][ 78]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/CourseContent_Auto3
+[2023.01.12-09.27.48:001][ 78]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/CourseContent_Auto34CB4D32046029E59B886B4891AECFDF5.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/CourseContent_Auto3.umap'
+[2023.01.12-09.27.48:007][ 78]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/CourseContent' took 0.062
+[2023.01.12-09.27.48:007][ 78]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2023.01.12-09.27.48:008][ 78]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/BP_Projectile] ([2] browsable assets)...
+[2023.01.12-09.27.48:247][ 78]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/BP_Projectile.BP_Projectile]
+[2023.01.12-09.27.48:248][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/BP_Projectile]
+[2023.01.12-09.27.48:251][ 78]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/BP_Projectile_Auto3
+[2023.01.12-09.27.48:251][ 78]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/BP_Projectile_Auto3AA003701405E1F1056793F8D7D875BB7.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/BP_Projectile_Auto3.uasset'
+[2023.01.12-09.27.48:251][ 78]LogFileHelpers: Auto-saving content packages took 0.243
+[2023.01.12-09.28.06:336][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.01.12-09.28.06:339][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.12-09.28.06:413][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.01.12-09.28.06:425][985]LogSavePackage: Moving output files for package: /Game/StarterContent/CourseContent
+[2023.01.12-09.28.06:425][985]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/CourseContent6CE2378C433DCBDC41FF399BEEAF707A.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/CourseContent.umap'
+[2023.01.12-09.28.06:430][985]LogFileHelpers: Saving map 'CourseContent' took 0.051
+[2023.01.12-09.28.06:430][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Projectile" FILE="E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/BP_Projectile.uasset" SILENT=true
+[2023.01.12-09.28.06:432][985]LogSavePackage: Moving output files for package: /Game/StarterContent/BP_Projectile
+[2023.01.12-09.28.06:432][985]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/BP_Projectile6BD975584F67A5BA9E28269B62419486.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/BP_Projectile.uasset'
+[2023.01.12-09.28.06:437][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 974 ms)
+[2023.01.12-09.28.06:445][985]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.12-09.28.06:445][985]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/CourseContent.CourseContent
+[2023.01.12-09.28.06:445][985]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/BP_Projectile.BP_Projectile
+[2023.01.12-09.38.06:394][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.01.12-09.38.06:408][560]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/CourseContent_Auto4
+[2023.01.12-09.38.06:408][560]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/CourseContent_Auto4B38BA31C4E9F48EA0906078CC74006E8.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/CourseContent_Auto4.umap'
+[2023.01.12-09.38.06:415][560]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/CourseContent' took 0.063
+[2023.01.12-09.38.06:415][560]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2023.01.12-09.39.27:697][345]LogEditorTransaction: Undo Delete current selection
+[2023.01.12-09.39.28:182][354]LogEditorTransaction: Undo Break Pin Link
+[2023.01.12-09.39.28:727][408]LogEditorTransaction: Undo Break Pin Links
+[2023.01.12-09.39.29:182][461]LogEditorTransaction: Undo Create Reroute Node
+[2023.01.12-09.39.29:762][529]LogEditorTransaction: Undo Convert pin type
+[2023.01.12-09.40.03:989][554]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-09.40.03:993][554]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.12-09.40.04:022][554]LogPlayLevel: [PlayLevel] Compiling CourseContent before play...
+[2023.01.12-09.40.04:081][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.01.12-09.40.04:084][554]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (1 blueprints)
+[2023.01.12-09.40.04:084][554]PIE: New page: PIE session: CourseContent (Jan 11, 2023, 11:40:04 PM)
+[2023.01.12-09.40.04:084][554]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_CourseContent
+[2023.01.12-09.40.04:087][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002761s)
+[2023.01.12-09.40.04:087][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/CourseContent.CourseContent to /Game/StarterContent/UEDPIE_0_CourseContent.CourseContent (0.002786s)
+[2023.01.12-09.40.04:087][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-09.40.04:087][554]LogAIModule: Creating AISystem for world CourseContent
+[2023.01.12-09.40.04:087][554]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2023.01.12-09.40.04:120][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.01.12-09.40.04:121][554]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.12-09.40.04:121][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-09.40.04:121][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-09.40.04:121][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-09.40.04:121][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-09.40.04:121][554]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.12-09.40.04:121][554]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-09.40.04:121][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.12-09.40.04:121][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-09.40.04:121][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-09.40.04:121][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-09.40.04:121][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-09.40.04:124][554]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-09.40.04:145][554]LogAudioMixer: Display: Using Audio Hardware Device AW2521HF (NVIDIA High Definition Audio)
+[2023.01.12-09.40.04:146][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-09.40.04:146][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-09.40.04:146][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-09.40.04:146][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.01.12-09.40.04:146][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.01.12-09.40.04:148][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.01.12-09.40.04:148][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.01.12-09.40.04:148][554]LogInit: FAudioDevice initialized.
+[2023.01.12-09.40.04:148][554]LogAudio: Display: Audio Device (ID: 7) registered with world 'CourseContent'.
+[2023.01.12-09.40.04:216][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-09.40.04:216][554]LogLoad: Game class is 'GameModeBase'
+[2023.01.12-09.40.04:218][554]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_CourseContent.CourseContent up for play (max tick rate 0) at 2023.01.12-04.40.04
+[2023.01.12-09.40.04:218][554]LogWorld: Bringing up level for play took: 0.001748
+[2023.01.12-09.40.04:220][554]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.01.12-09.40.04:221][554]LogBlueprintUserMessages: [CourseContent_C_5] Welcome to this game!
+[2023.01.12-09.40.04:221][554]LogBlueprintUserMessages: [CourseContent_C_5] Get Ready!
+[2023.01.12-09.40.04:222][554]PIE: Server logged in
+[2023.01.12-09.40.04:222][554]PIE: Play in editor total start time 0.229 seconds.
+[2023.01.12-09.40.04:248][554]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.01.12-09.40.30:005][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-09.40.30:005][238]LogWorld: BeginTearingDown for /Game/StarterContent/UEDPIE_0_CourseContent
+[2023.01.12-09.40.30:005][238]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.01.12-09.40.30:009][238]LogWorld: UWorld::CleanupWorld for CourseContent, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-09.40.30:010][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-09.40.30:012][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-09.40.30:018][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-09.40.30:053][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.01.12-09.40.30:055][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.01.12-09.40.30:060][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.01.12-09.40.30:078][239]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.01.12-09.42.06:004][705]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-09.42.06:006][705]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.12-09.42.06:007][705]LogPlayLevel: [PlayLevel] Compiling CourseContent before play...
+[2023.01.12-09.42.06:065][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.01.12-09.42.06:068][705]LogPlayLevel: PlayLevel: Blueprint regeneration took 60 ms (1 blueprints)
+[2023.01.12-09.42.06:068][705]PIE: New page: PIE session: CourseContent (Jan 11, 2023, 11:42:06 PM)
+[2023.01.12-09.42.06:068][705]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_CourseContent
+[2023.01.12-09.42.06:070][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002603s)
+[2023.01.12-09.42.06:070][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/CourseContent.CourseContent to /Game/StarterContent/UEDPIE_0_CourseContent.CourseContent (0.002628s)
+[2023.01.12-09.42.06:071][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-09.42.06:071][705]LogAIModule: Creating AISystem for world CourseContent
+[2023.01.12-09.42.06:071][705]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2023.01.12-09.42.06:103][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.01.12-09.42.06:103][705]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.01.12-09.42.06:103][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-09.42.06:103][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-09.42.06:103][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-09.42.06:103][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-09.42.06:103][705]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.12-09.42.06:103][705]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-09.42.06:103][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.12-09.42.06:103][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-09.42.06:104][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-09.42.06:104][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-09.42.06:104][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-09.42.06:106][705]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-09.42.06:127][705]LogAudioMixer: Display: Using Audio Hardware Device AW2521HF (NVIDIA High Definition Audio)
+[2023.01.12-09.42.06:127][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-09.42.06:127][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-09.42.06:127][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-09.42.06:128][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.01.12-09.42.06:128][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.01.12-09.42.06:129][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.01.12-09.42.06:129][705]LogInit: FAudioDevice initialized.
+[2023.01.12-09.42.06:129][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.01.12-09.42.06:129][705]LogAudio: Display: Audio Device (ID: 8) registered with world 'CourseContent'.
+[2023.01.12-09.42.06:177][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-09.42.06:177][705]LogLoad: Game class is 'GameModeBase'
+[2023.01.12-09.42.06:178][705]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_CourseContent.CourseContent up for play (max tick rate 0) at 2023.01.12-04.42.06
+[2023.01.12-09.42.06:178][705]LogWorld: Bringing up level for play took: 0.001125
+[2023.01.12-09.42.06:180][705]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.01.12-09.42.06:182][705]LogBlueprintUserMessages: [CourseContent_C_6] Welcome to this game!
+[2023.01.12-09.42.06:182][705]LogBlueprintUserMessages: [CourseContent_C_6] Get Ready!
+[2023.01.12-09.42.06:182][705]PIE: Server logged in
+[2023.01.12-09.42.06:182][705]PIE: Play in editor total start time 0.176 seconds.
+[2023.01.12-09.42.06:205][705]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.01.12-09.42.10:014][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-09.42.10:014][ 70]LogWorld: BeginTearingDown for /Game/StarterContent/UEDPIE_0_CourseContent
+[2023.01.12-09.42.10:015][ 70]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.01.12-09.42.10:019][ 70]LogWorld: UWorld::CleanupWorld for CourseContent, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-09.42.10:019][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-09.42.10:021][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-09.42.10:027][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-09.42.10:062][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.01.12-09.42.10:063][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.01.12-09.42.10:068][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.01.12-09.42.10:081][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.01.12-09.43.34:181][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.12-09.43.34:183][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.12-09.43.34:260][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.01.12-09.43.34:272][519]LogSavePackage: Moving output files for package: /Game/StarterContent/CourseContent
+[2023.01.12-09.43.34:272][519]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/CourseContentBBB2602845981709613128BF3DC3B75D.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/CourseContent.umap'
+[2023.01.12-09.43.34:278][519]LogFileHelpers: Saving map 'CourseContent' took 0.053
+[2023.01.12-09.43.34:289][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Projectile" FILE="E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/BP_Projectile.uasset" SILENT=true
+[2023.01.12-09.43.34:291][519]LogSavePackage: Moving output files for package: /Game/StarterContent/BP_Projectile
+[2023.01.12-09.43.34:291][519]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/BP_ProjectileD3F90CC94ECAD5AD0450C5B8DC1129ED.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/BP_Projectile.uasset'
+[2023.01.12-09.43.34:297][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1.08 sec)
+[2023.01.12-09.43.34:305][519]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.12-09.43.34:305][519]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/CourseContent.CourseContent
+[2023.01.12-09.43.34:305][519]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/BP_Projectile.BP_Projectile
