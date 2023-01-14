@@ -1483,3 +1483,265 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.14-23.25.52:058][  2]Cmd: MAP CHECKDEP NOCLEARLOG
 [2023.01.14-23.25.52:059][  2]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.04ms to complete.
 [2023.01.14-23.25.52:059][  2]LogFileHelpers: Loading map 'CourseContent' took 0.058
+[2023.01.14-23.27.06:225][998]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.198 and deleted 0 files with total size 0 MiB. Scanned 8458 files in 8028 folders with total size 108 MiB.
+[2023.01.14-23.29.13:897][151]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/BG_D.BG_D (TFO_AutoDXT, 8x8 x1x1x1) (Required Memory Estimate: 0.072553 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.13:897][151]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/B_N.B_N (TFO_BC5, 8x8 x1x1x1) (Required Memory Estimate: 0.080497 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.13:897][151]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/BB_D.BB_D (TFO_AutoDXT, 8x8 x1x1x1) (Required Memory Estimate: 0.072553 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.13:899][151]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/T_MASK1.T_MASK1 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.13:920][151]LogStaticMesh: Display: Building static mesh SM_Barrel03...
+[2023.01.14-23.29.13:991][154]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Barrel01_N.T_Barrel01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.14:018][155]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Barrel01_D.T_Barrel01_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.14:022][155]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.14:023][155]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.14:024][155]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_0
+[2023.01.14-23.29.14:028][155]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Barrel01_SRM.T_Barrel01_SRM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.14:043][155]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IndustryPropsPack6/Meshes/SM_Barrel03) ...
+[2023.01.14-23.29.14:089][155]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/T_MASK2.T_MASK2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.14:260][155]LogStaticMesh: Built static mesh [0.34s] /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.14:264][155]LogStaticMesh: Display: Building static mesh SM_Barrel03...
+[2023.01.14-23.29.14:486][155]LogStaticMesh: Built static mesh [0.22s] /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: ================================================
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Total job queries 199, among them cache hits 2 (1.01%)
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Tracking 190 distinct input hashes that result in 154 distinct outputs (81.05%)
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: RAM used: 1.74 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Shaders Compiled: 3
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Jobs assigned 10, completed 3 (30.00%)
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Job execution time: average 1.19 s, max 1.19 s
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 1.24
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.24 s
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Average processing rate: 2.41 jobs/sec
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Total thread time: 1.06 s
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Total thread preprocess time: 0.09 s
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Percentage time preprocessing: 8.42%
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Effective parallelization: 0.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 34.75% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 34.05% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display:                                                  FHitProxyPS - 31.20% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.01.14-23.29.15:756][295]LogShaderCompilers: Display: ================================================
+[2023.01.14-23.29.15:814][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.15:814][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.15:815][299]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_3
+[2023.01.14-23.29.19:614][660]LogStaticMesh: Display: Building static mesh SM_Box02...
+[2023.01.14-23.29.19:679][664]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Box01_SRM.T_Box01_SRM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.19:715][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.01.14-23.29.19:715][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.01.14-23.29.19:715][665]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_4
+[2023.01.14-23.29.19:723][665]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Box01_D.T_Box01_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.19:732][665]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IndustryPropsPack6/Meshes/SM_Box02) ...
+[2023.01.14-23.29.19:749][665]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Box01_N.T_Box01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.20:111][665]LogStaticMesh: Built static mesh [0.50s] /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.01.14-23.29.20:115][665]LogStaticMesh: Display: Building static mesh SM_Box02...
+[2023.01.14-23.29.20:494][665]LogStaticMesh: Built static mesh [0.38s] /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.01.14-23.29.20:557][669]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/b5/cd/cdc507dbbc7b7590de2906dd839889ffa408.udd from '/Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02'.
+[2023.01.14-23.29.21:916][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.01.14-23.29.21:916][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.01.14-23.29.21:917][814]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_5
+[2023.01.14-23.29.27:396][380]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Hose_D.T_Hose_D (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.27:396][380]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Hose_N.T_Hose_N (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.27:396][380]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Hose_SRM.T_Hose_SRM (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.01.14-23.29.27:411][380]LogStaticMesh: Display: Building static mesh SM_Hose01...
+[2023.01.14-23.29.27:620][394]LogStaticMesh: Built static mesh [0.21s] /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.01.14-23.29.27:623][394]LogStaticMesh: Display: Building static mesh SM_Hose01...
+[2023.01.14-23.29.27:660][397]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.01.14-23.29.27:660][397]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.01.14-23.29.27:660][397]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_6
+[2023.01.14-23.29.27:678][397]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IndustryPropsPack6/Meshes/SM_Hose01) ...
+[2023.01.14-23.29.27:823][397]LogStaticMesh: Built static mesh [0.20s] /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.01.14-23.29.28:815][496]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.01.14-23.29.28:815][496]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.01.14-23.29.28:816][496]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_7
+[2023.01.14-23.29.38:283][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.38:283][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.38:283][427]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_8
+[2023.01.14-23.29.40:202][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.40:202][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.40:203][649]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_9
+[2023.01.14-23.29.43:325][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.43:325][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.43:325][970]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_10
+[2023.01.14-23.29.45:329][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.45:329][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.01.14-23.29.45:330][206]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03 as actor: StaticMeshActor /Game/CourseContent.CourseContent:PersistentLevel.StaticMeshActor_11
+[2023.01.14-23.29.56:187][463]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.14-23.29.56:192][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.14-23.29.56:192][463]PIE: New page: PIE session: CourseContent (Jan 14, 2023, 1:29:56 PM)
+[2023.01.14-23.29.56:195][463]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.01.14-23.29.56:195][463]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.14-23.29.56:195][463]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CourseContent
+[2023.01.14-23.29.56:198][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003163s)
+[2023.01.14-23.29.56:198][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CourseContent.CourseContent to /Game/UEDPIE_0_CourseContent.CourseContent (0.003202s)
+[2023.01.14-23.29.56:198][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.14-23.29.56:198][463]LogAIModule: Creating AISystem for world CourseContent
+[2023.01.14-23.29.56:199][463]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2023.01.14-23.29.56:205][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.14-23.29.56:207][463]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.14-23.29.56:207][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.14-23.29.56:207][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.14-23.29.56:207][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.14-23.29.56:207][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.14-23.29.56:207][463]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.14-23.29.56:207][463]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.14-23.29.56:207][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.14-23.29.56:207][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.14-23.29.56:207][463]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.14-23.29.56:207][463]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.14-23.29.56:207][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.14-23.29.56:208][463]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.14-23.29.56:229][463]LogAudioMixer: Display: Using Audio Hardware Device AW2521HF (NVIDIA High Definition Audio)
+[2023.01.14-23.29.56:230][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.14-23.29.56:230][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.14-23.29.56:230][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.14-23.29.56:231][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.01.14-23.29.56:231][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.01.14-23.29.56:232][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.01.14-23.29.56:232][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.01.14-23.29.56:232][463]LogInit: FAudioDevice initialized.
+[2023.01.14-23.29.56:232][463]LogAudio: Display: Audio Device (ID: 2) registered with world 'CourseContent'.
+[2023.01.14-23.29.56:235][463]LogLoad: Game class is 'GameModeBase'
+[2023.01.14-23.29.56:236][463]LogWorld: Bringing World /Game/UEDPIE_0_CourseContent.CourseContent up for play (max tick rate 0) at 2023.01.14-18.29.56
+[2023.01.14-23.29.56:237][463]LogWorld: Bringing up level for play took: 0.001048
+[2023.01.14-23.29.56:238][463]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.01.14-23.29.56:251][463]LogBlueprintUserMessages: [CourseContent_C_6] Welcome to this game!
+[2023.01.14-23.29.56:251][463]LogBlueprintUserMessages: [CourseContent_C_6] Get Ready!
+[2023.01.14-23.29.56:251][463]PIE: Server logged in
+[2023.01.14-23.29.56:252][463]PIE: Play in editor total start time 0.061 seconds.
+[2023.01.14-23.30.07:411][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-23.30.07:411][787]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CourseContent
+[2023.01.14-23.30.07:411][787]LogWorld: UWorld::CleanupWorld for CourseContent, bSessionEnded=true, bCleanupResources=true
+[2023.01.14-23.30.07:411][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-23.30.07:413][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.14-23.30.07:415][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-23.30.07:421][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.14-23.30.07:421][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.01.14-23.30.07:422][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.01.14-23.30.07:425][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-23.30.07:427][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.14-23.30.07:503][790]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.01.14-23.30.14:825][636]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.14-23.30.14:831][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.14-23.30.14:831][636]PIE: New page: PIE session: CourseContent (Jan 14, 2023, 1:30:14 PM)
+[2023.01.14-23.30.14:831][636]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CourseContent
+[2023.01.14-23.30.14:837][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006183s)
+[2023.01.14-23.30.14:837][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CourseContent.CourseContent to /Game/UEDPIE_0_CourseContent.CourseContent (0.006285s)
+[2023.01.14-23.30.14:838][636]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.14-23.30.14:838][636]LogAIModule: Creating AISystem for world CourseContent
+[2023.01.14-23.30.14:839][636]LogPlayLevel: PIE: World Init took: (0.001542s)
+[2023.01.14-23.30.14:844][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.01.14-23.30.14:845][636]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.14-23.30.14:846][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.14-23.30.14:846][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.14-23.30.14:846][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.14-23.30.14:846][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.14-23.30.14:846][636]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.14-23.30.14:846][636]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.14-23.30.14:846][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.14-23.30.14:846][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.14-23.30.14:846][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.14-23.30.14:846][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.14-23.30.14:846][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.14-23.30.14:848][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.14-23.30.14:869][636]LogAudioMixer: Display: Using Audio Hardware Device AW2521HF (NVIDIA High Definition Audio)
+[2023.01.14-23.30.14:869][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.14-23.30.14:869][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.14-23.30.14:869][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.14-23.30.14:870][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.01.14-23.30.14:870][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.01.14-23.30.14:871][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.01.14-23.30.14:871][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.01.14-23.30.14:871][636]LogInit: FAudioDevice initialized.
+[2023.01.14-23.30.14:871][636]LogAudio: Display: Audio Device (ID: 3) registered with world 'CourseContent'.
+[2023.01.14-23.30.14:873][636]LogLoad: Game class is 'GameModeBase'
+[2023.01.14-23.30.14:874][636]LogWorld: Bringing World /Game/UEDPIE_0_CourseContent.CourseContent up for play (max tick rate 0) at 2023.01.14-18.30.14
+[2023.01.14-23.30.14:874][636]LogWorld: Bringing up level for play took: 0.000984
+[2023.01.14-23.30.14:876][636]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.01.14-23.30.14:876][636]LogBlueprintUserMessages: [CourseContent_C_6] Welcome to this game!
+[2023.01.14-23.30.14:876][636]LogBlueprintUserMessages: [CourseContent_C_6] Get Ready!
+[2023.01.14-23.30.14:876][636]PIE: Server logged in
+[2023.01.14-23.30.14:877][636]PIE: Play in editor total start time 0.047 seconds.
+[2023.01.14-23.30.24:240][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-23.30.24:240][747]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CourseContent
+[2023.01.14-23.30.24:240][747]LogWorld: UWorld::CleanupWorld for CourseContent, bSessionEnded=true, bCleanupResources=true
+[2023.01.14-23.30.24:240][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-23.30.24:243][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.14-23.30.24:245][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-23.30.24:250][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-23.30.24:250][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.14-23.30.24:252][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.14-23.30.24:256][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.01.14-23.30.24:333][749]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.01.14-23.32.50:890][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.01.14-23.32.50:893][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.14-23.32.50:939][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CourseContent" FILE="E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/CourseContent.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.14-23.32.50:945][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.14-23.32.50:957][725]LogSavePackage: Moving output files for package: /Game/CourseContent
+[2023.01.14-23.32.50:957][725]LogSavePackage: Moving 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/CourseContent4A51C430498B9FC6E431829A885D6578.tmp' to 'E:/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/CourseContent.umap'
+[2023.01.14-23.32.50:962][725]LogFileHelpers: Saving map 'CourseContent' took 0.023
+[2023.01.14-23.32.50:968][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 883 ms)
+[2023.01.14-23.32.50:971][725]AssetCheck: New page: Asset Save: CourseContent
+[2023.01.14-23.32.50:971][725]LogContentValidation: Display: Validating /Script/Engine.World /Game/CourseContent.CourseContent
+[2023.01.14-23.33.16:357][910]LogSlate: Window 'New Level' being destroyed
+[2023.01.14-23.33.16:380][910]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.01.14-23.33.16:385][910]LightingResults: New page: Lighting Build
+[2023.01.14-23.33.16:385][910]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.01.14-23.33.16:427][910]LogWorld: UWorld::CleanupWorld for CourseContent, bSessionEnded=true, bCleanupResources=true
+[2023.01.14-23.33.16:427][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-23.33.16:427][910]MapCheck: New page: Map Check
+[2023.01.14-23.33.16:427][910]LightingResults: New page: Lighting Build
+[2023.01.14-23.33.16:433][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.14-23.33.16:434][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.14-23.33.16:447][910]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2023.01.14-23.33.16:447][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.14-23.33.16:448][910]LogAIModule: Creating AISystem for world Untitled_2
+[2023.01.14-23.33.16:453][910]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.14-23.33.16:460][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.14-23.33.16:461][910]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.14-23.33.16:461][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2023.01.14-23.33.16:461][910]LogFileHelpers: Loading map 'Template_Default' took 0.081
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: ================================================
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Total job queries 223, among them cache hits 2 (0.90%)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Tracking 219 distinct input hashes that result in 165 distinct outputs (75.34%)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: RAM used: 1.92 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.12%
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Shaders Compiled: 32
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Jobs assigned 34, completed 32 (94.12%)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Average time worker was idle: 42.71 s
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 1.59 s
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.66
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.06 s
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Average processing rate: 6.32 jobs/sec
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Total thread time: 12.58 s
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Total thread preprocess time: 0.80 s
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Percentage time preprocessing: 6.32%
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Effective parallelization: 2.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.62 sec, max 0.62 sec, min 0.61 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.58 sec, max 0.59 sec, min 0.57 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.57 sec, max 0.57 sec, min 0.56 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 0.53 sec, max 0.54 sec, min 0.52 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.51 sec, max 0.54 sec, min 0.47 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.26% of total time (compiled    4 times, average 0.51 sec, max 0.54 sec, min 0.47 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.75% of total time (compiled    3 times, average 0.62 sec, max 0.62 sec, min 0.61 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.91% of total time (compiled    3 times, average 0.58 sec, max 0.59 sec, min 0.57 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 13.48% of total time (compiled    3 times, average 0.57 sec, max 0.57 sec, min 0.56 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display:                                                  FHitProxyVS - 12.63% of total time (compiled    3 times, average 0.53 sec, max 0.54 sec, min 0.52 sec)
+[2023.01.14-23.33.17:141][980]LogShaderCompilers: Display: ================================================
+[2023.01.14-23.33.42:853][836]Cmd: DELETE
+[2023.01.14-23.33.42:853][836]Cmd: ACTOR DELETE
+[2023.01.14-23.33.42:855][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.14-23.33.42:862][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.14-23.33.42:864][836]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.01.14-23.34.13:060][322]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.01.14-23.34.14:448][427]LogViewport: Scene viewport resized to 1136x894, mode Windowed.
